@@ -1,3 +1,5 @@
+
+--Modify this code from MySQL 
 CREATE TABLE USER_BANCU.DATA_GOV_RO
 (
   
