@@ -1,0 +1,12 @@
+SELECT 
+
+CUI,
+COUNT(CUI) AS CNT
+
+FROM data_gov_ro_fin
+
+GROUP BY 
+CUI
+
+HAVING  
+COUNT(CUI) > 1
