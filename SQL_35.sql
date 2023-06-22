@@ -9,5 +9,5 @@ Sediu,
 country,
 Localitate,
 Judet
-FROM data_gov_ro_cui
+FROM data_all_ro
 -- next
